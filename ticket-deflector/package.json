@@ -45,7 +45,7 @@
     "lucide-react": "^0.300.0",
     "mdast-util-from-markdown": "^2.0.0",
     "mdast-util-to-string": "^4.0.0",
-    "nanoid": "^5.0.4",
+    "nanoid": "^5.0.9",
     "next": "13.5.4",
     "next-themes": "^0.2.1",
     "react": "^18",
